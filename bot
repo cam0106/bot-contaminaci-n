@@ -14,4 +14,4 @@ async def tips(ctx):
     with open(f'contaminacion/{img_name}', 'rb') as f:
             picture = discord.File(f)
     await ctx.send(file=picture)
-bot.run("MTIyODc1MDU1MTI3NDIyNTgxMA.GhFYYh.mnEtwj_jyhsANZ4HoI6oojacdDl-0Q4BTEAYbE")
+bot.run("")
